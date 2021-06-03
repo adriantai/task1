@@ -1,20 +1,16 @@
 ---
-title: "Xiang Guo"
+title: "Adrian Tai"
 image: "xiang.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/in/adriantai8/"
   - label: GitHub
     url: "https://github.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "adriantaisc@gmail.com"
 output:
   postcards::jolla_blue
 ---
+## Bio
  
-Raised in New Jersey by two lawyers, I am now an aspiring data artist and 
-competitive rock climber. I moved to Seattle to fly floatplanes, but I got 
-caught up in the startup world. Send me a WhatsApp message if you have good 
-turnip prices.
+I'm adrian and I like building websites.
